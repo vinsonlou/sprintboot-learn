@@ -8,7 +8,7 @@ public class SprintbootLearnApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SprintbootLearnApplication.class, args);
-		System.out.println("hello world2");
+		System.out.println("hello world");
 	}
 
 }
